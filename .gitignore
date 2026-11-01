@@ -1,0 +1,5 @@
+node_modules
+.svelte-kit
+.vercel
+# 34 MB, only needed by `npm run data`; download from http://www.lexique.org (lex.json is committed instead)
+data/Lexique*.tsv
