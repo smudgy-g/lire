@@ -1,128 +1,108 @@
 [
- {
-  "id": "a2",
-  "level": "A2",
-  "title": "Un week-end à Lyon",
-  "text": "Samedi matin, Clara [prend=takes] le train pour Lyon. Elle [rend visite à=visits] sa grand-mère, qui habite près du [marché=market]. Quand elle arrive, il [pleut=it’s raining] un peu.\n\nSa grand-mère l’[attend=waits for her] devant la [porte=door] avec un grand [parapluie=umbrella]. « Tu as faim ? » demande-t-elle. Elles [achètent=buy] du pain, du fromage et des [fraises=strawberries].\n\nL’après-midi, elles [se promènent=take a walk] le long de la rivière. Clara est [fatiguée=tired] mais très [contente=happy]. Le soir, elle [dort=sleeps] dans la petite chambre bleue.\n\nLe dimanche, Clara [se réveille=wakes up] tôt. Sa grand-mère [prépare=prepares] le petit-déjeuner : du café, des [tartines=slices of bread] et de la [confiture=jam]. Elles [discutent=chat] longtemps de la famille et des [projets=plans] de Clara. Avant de partir, la grand-mère lui [donne=gives] un petit [cadeau=gift] : un [livre=book] sur l’histoire de la ville. « Reviens bientôt ! » dit-elle. Clara [promet=promises] de revenir au [printemps=spring].",
-  "quiz": {
-   "question": "Que fait Clara le soir ?",
-   "options": [
-    "Elle dort dans la petite chambre bleue.",
-    "Elle prend le train.",
-    "Elle achète du pain."
-   ]
-  }
- },
- {
-  "id": "b1",
-  "level": "B1",
-  "title": "La boulangerie du coin",
-  "text": "Depuis des années, Théo [s’arrêtait=stopped] chaque matin à la boulangerie de la rue des Lilas avant de [prendre le métro=take the metro]. Ce jour-là, pourtant, la [vitrine=shop window] était vide et un [panneau=sign] annonçait : « Fermé pour [rénovation=renovation] ». Il était [déçu=disappointed], car cette petite [habitude=habit] [faisait partie de=was part of] sa routine.\n\nTrois semaines plus tard, la boulangerie a [rouvert=reopened]. La nouvelle [gérante=manager], une jeune femme [chaleureuse=warm], avait tout [repeint=repainted] en vert. « J’ai [osé=dared] modifier la recette de la baguette, a-t-elle [avoué=admitted]. J’espère que les clients ne seront pas [fâchés=angry]. »\n\nThéo a goûté un morceau, puis il a [souri=smiled]. [Finalement=In the end], le changement n’était pas si [grave=serious]. Il a même [promis=promised] de revenir le lendemain.\n\nLes semaines suivantes, le [quartier=neighbourhood] a [retrouvé=found again] son [animation=liveliness]. Dès sept heures, une [file d’attente=queue] se formait devant la porte. La gérante, [débordée=overwhelmed] mais [ravie=delighted], a engagé un [apprenti=apprentice] pour l’aider. Théo, lui, a [pris l’habitude=got into the habit] de lui [rapporter=bring back] des idées de [recettes=recipes] après ses [voyages=trips] professionnels. « Un jour, vous aurez votre propre pain à la maison », lui a-t-elle dit en [plaisantant=joking].",
-  "quiz": {
-   "question": "Qu’est-ce que la propriétaire a changé ?",
-   "options": [
-    "La recette de la baguette.",
-    "Le nom de la rue.",
-    "Les horaires d’ouverture."
-   ]
-  }
- },
- {
-  "id": "b2",
-  "level": "B2",
-  "title": "Le dernier train",
-  "text": "Il était presque minuit lorsqu’Inès a [réalisé=realised] qu’elle venait de [rater=miss] le dernier train. Le quai était [désert=deserted] et le tableau d’affichage ne [signalait=indicated] plus aucun départ. Elle [hésitait=hesitated] entre [commander=order] un taxi, ce qui lui coûterait une [fortune=fortune], et [patienter=wait] jusqu’au premier train, à cinq heures.\n\nUn homme [âgé=elderly], assis sur un banc, l’a [interpellée=called out to her] : « Vous n’êtes pas la première, [croyez-moi=believe me]. » Il lui a [tendu=held out] un thermos de café et lui a [confié=confided] qu’il prenait ce train depuis quarante ans, sans jamais [s’en lasser=get tired of it].\n\nD’abord [méfiante=wary], Inès a fini par [se détendre=relax]. Au fil de la conversation, elle a [compris=understood] que cet homme n’était pas seulement un [voyageur=traveller] [solitaire=lonely] : il connaissait chaque [gare=station], chaque [horaire=timetable] et presque chaque visage. Quand l’[aube=dawn] est arrivée, elle ne [regrettait=regretted] presque plus son [retard=delay].\n\nVers trois heures, le vent s’est [levé=picked up] et la [température=temperature] a [chuté=dropped]. L’homme a [sorti=taken out] une couverture de son sac et l’a [posée=placed] sur les épaules d’Inès. « Je ne voyage jamais sans elle, [a-t-il précisé=he added] avec un [sourire=smile]. Un train en retard ou une [panne=breakdown], on ne sait jamais. » Inès a [éclaté de rire=burst out laughing]. Elle ne se [doutait=suspected] pas qu’une nuit [perdue=wasted] à la gare pouvait devenir un si beau souvenir.",
-  "quiz": {
-   "question": "Que propose l’homme à Inès ?",
-   "options": [
-    "Un thermos de café.",
-    "Un taxi.",
-    "Son billet de train."
-   ]
-  }
- },
- {
-  "id": "a2b",
-  "level": "A2",
-  "title": "Au marché",
-  "text": "Dimanche, Paul et sa sœur Léa vont au [marché=market]. Il y a beaucoup de [monde=people]. Léa veut acheter des [légumes=vegetables] pour la soupe. Paul préfère les [pommes=apples].\n\nLe [vendeur=seller] est très [sympa=nice]. Il leur [offre=gives] une poire [gratuite=for free]. « C’est [combien=how much] ? » demande Léa. « Cinq euros, [s’il vous plaît=please] », répond-il.\n\nEn rentrant, ils [préparent=prepare] la soupe ensemble. Paul [coupe=cuts] les carottes et Léa [met=puts] le sel. Le repas est délicieux.\n\nAprès le déjeuner, Léa [range=tidies] la cuisine pendant que Paul [lave=washes] la vaisselle. Dehors, le soleil [brille=shines]. « Allons au [parc=park] ! » propose Paul. Ils [marchent=walk] jusqu’au lac et [donnent=give] du pain aux [canards=ducks]. Léa [prend=takes] des photos. Ils rentrent [tard=late], [heureux=happy] de leur journée.",
-  "quiz": {
-   "question": "Qu’est-ce que le vendeur offre ?",
-   "options": [
-    "Une poire.",
-    "Des carottes.",
-    "Une soupe."
-   ]
-  }
- },
- {
-  "id": "b1b",
-  "level": "B1",
-  "title": "Le message oublié",
-  "text": "Lundi dernier, en [rangeant=tidying] son bureau avant de [déménager=move out], Camille a [découvert=discovered] une enveloppe [coincée=stuck] derrière un tiroir. À l’intérieur se trouvait une lettre de Marc, un ancien [collègue=colleague] qui avait [quitté=left] l’entreprise deux ans plus tôt.\n\nMarc [s’excusait=apologised] de ne pas avoir dit au revoir. Une [société=company] canadienne lui avait proposé un poste [intéressant=interesting], et il avait dû partir [en urgence=in a hurry]. Il [regrettait=regretted] de ne pas avoir pris le temps d’expliquer sa [décision=decision].\n\nCamille est restée un moment [silencieuse=silent], puis elle lui a [envoyé=sent] un message. [À peine=Barely] deux heures plus tard, Marc a [répondu=replied] : « Quelle belle [surprise=surprise] ! Tu me manques aussi. »\n\nIls ont [échangé=exchanged] plusieurs messages pendant la [semaine=week]. Marc [racontait=told] sa nouvelle vie : le [climat=climate] rude, les hivers [interminables=endless], mais aussi des collègues [accueillants=welcoming]. Camille, elle, lui parlait de leurs anciens projets et des [changements=changes] dans l’équipe. Avant de se quitter, ils se sont [promis=promised] de se [retrouver=meet again] à Paris l’été prochain, [dès que=as soon as] Marc pourrait prendre quelques jours de [congé=leave].",
-  "quiz": {
-   "question": "Pourquoi Marc est-il parti sans dire au revoir ?",
-   "options": [
-    "Il avait une offre de travail au Canada.",
-    "Il était fâché contre Camille.",
-    "Il avait perdu son emploi."
-   ]
-  }
- },
- {
-  "id": "b2b",
-  "level": "B2",
-  "title": "La librairie",
-  "text": "Depuis des mois, Sofia [envisageait=considered] de quitter son poste de comptable pour ouvrir une librairie. Ses parents la jugeaient [imprudente=reckless], et son [banquier=banker] ne cachait pas son [scepticisme=scepticism] : « Il faut que vous [soyez=you be] réaliste, le marché du livre est [fragile=fragile]. »\n\nPourtant, un soir, en [parcourant=browsing] des annonces, elle est tombée sur un local [abordable=affordable] près de la gare. Elle s’y est rendue dès le lendemain, [malgré=despite] la pluie. Le propriétaire, un retraité [bavard=talkative], lui a [avoué=admitted] que plusieurs candidats s’étaient [désistés=withdrawn] à cause des travaux à prévoir.\n\n« Les travaux ne m’effraient pas, a-t-elle [rétorqué=retorted]. Ce que je [redoute=dread], c’est de [regretter=regret] de n’avoir jamais essayé. » Elle a [signé=signed] le [bail=lease] le jour même, [convaincue=convinced] que l’occasion ne se représenterait pas.\n\nSix mois plus tard, la librairie a [ouvert=opened] ses portes. Sofia avait choisi des [rayons=shelves] [spacieux=spacious], un coin lecture [aménagé=arranged] avec des fauteuils [dépareillés=mismatched] et une petite [scène=stage] pour les rencontres d’auteurs. Les premiers mois ont été [difficiles=difficult], mais le bouche-à-oreille a fini par [porter ses fruits=pay off]. Son banquier, [lui-même=himself] [étonné=surprised], est venu un samedi acheter un [roman=novel]. « J’avoue que je me [suis trompé=was wrong] », a-t-il [admis=admitted] en [souriant=smiling].",
-  "quiz": {
-   "question": "Pourquoi d’autres candidats ont-ils renoncé au local ?",
-   "options": [
-    "À cause des travaux.",
-    "Le prix était trop élevé.",
-    "Il pleuvait trop."
-   ]
-  }
- },
- {
-  "id": "a2c",
-  "level": "A2",
-  "title": "Le robot de la station",
-  "text": "Dans la station Orion, il y a douze personnes. Nina est [technicienne=technician] et elle travaille ici depuis un an. Chaque matin, elle regarde la [Terre=Earth] par la grande [fenêtre=window]. De là-haut, la planète est [bleue=blue] et très belle.\n\nUn jour, Nina entend un [bruit=noise] bizarre dans le couloir. Elle [ouvre=opens] la porte et voit un petit robot [par terre=on the floor]. Il est [cassé=broken]. Une de ses [lumières=lights] est [rouge=red]. « Bonjour ! » dit le robot d’une voix [faible=weak].\n\nNina est très [surprise=surprised]. Ce robot ne parle jamais ! Elle le prend dans ses bras et le [porte=carries] jusqu’à son [atelier=workshop]. Là, elle [répare=repairs] son bras avec un petit [outil=tool]. Le robot [bouge=moves] de nouveau.\n\n« Merci, Nina, » dit-il. « Je m’appelle Zéro. Je [cherche=am looking for] le capitaine. J’ai un message pour lui. » Nina demande : « Quel message ? » Zéro répond : « Une nouvelle planète ! Elle est [loin=far], mais on peut y [vivre=live]. »\n\nNina [court=runs] chez le capitaine avec Zéro. Tout le monde [écoute=listens to] le message. Le soir, la station est en [fête=celebration]. Nina regarde la Terre une dernière fois et [sourit=smiles]. Demain, un nouveau [voyage=journey] commence.",
-  "quiz": {
-   "question": "Qu’est-ce que Zéro cherche ?",
-   "options": [
-    "Le capitaine de la station.",
-    "Une pièce pour son bras.",
-    "La planète Terre."
-   ]
-  }
- },
- {
-  "id": "b1c",
-  "level": "B1",
-  "title": "Le signal de Titan",
-  "text": "Depuis trois semaines, la sonde Horizon [orbitait=was orbiting] autour de Titan, la plus grande lune de Saturne. Léa Marchand, [ingénieure=engineer] au centre de contrôle de Toulouse, [surveillait=monitored] chaque jour les [données=data] qui arrivaient de l’espace. Rien d’inhabituel [jusque-là=until then].\n\nUn mardi matin, pourtant, un [signal=signal] [étrange=strange] est apparu sur son écran. Il [se répétait=repeated itself] toutes les quarante secondes, avec une régularité [troublante=disturbing]. Léa a d’abord pensé à une [panne=breakdown], mais les [vérifications=checks] n’ont rien [révélé=revealed].\n\nElle a [prévenu=informed] son chef, Antoine, qui a [haussé les épaules=shrugged]. « Ce n’est sûrement qu’un [parasite=interference], a-t-il dit. Ne perdons pas de temps. » Léa n’était pas [convaincue=convinced]. Elle a passé la nuit à [analyser=analyse] le signal et a découvert qu’il contenait une [suite=sequence] de nombres premiers.\n\nLe lendemain, elle a [apporté=brought] ses [résultats=results] à toute l’équipe. Cette fois, personne n’a [ri=laughed]. Les [scientifiques=scientists] se sont regardés en silence. Quelqu’un a [murmuré=murmured] : « Ça ne peut pas être naturel. » Il fallait [décider=decide] quoi faire, et vite.\n\nAprès une longue [discussion=discussion], l’équipe a décidé de [répondre=reply] avec le même message. Léa a [appuyé=pressed] sur le bouton, le cœur [battant=pounding]. Quarante secondes plus tard, le signal a [changé=changed]. Pour la première fois, quelqu’un ou quelque chose leur répondait.",
-  "quiz": {
-   "question": "Qu’est-ce que Léa a découvert dans le signal ?",
-   "options": [
-    "Une suite de nombres premiers.",
-    "Un message écrit en français.",
-    "Une panne de la sonde."
-   ]
-  }
- },
- {
-  "id": "b2c",
-  "level": "B2",
-  "title": "La mémoire d’Éden",
-  "text": "Lorsque Samir s’est [réveillé=woke up] de son [hibernation=hibernation], il a tout de suite compris que quelque chose n’allait pas. La lumière du [caisson=pod] clignotait en rouge et le silence qui régnait dans le [vaisseau=ship] était [anormal=abnormal]. Le voyage devait durer deux cents ans ; d’après l’horloge, quatre-vingts ans seulement s’étaient [écoulés=elapsed].\n\nSamir a [parcouru=walked through] les couloirs [déserts=deserted] jusqu’à la salle de contrôle, où l’intelligence artificielle du vaisseau, [surnommée=nicknamed] Mnémosyne, l’attendait. « Je suis désolée de vous avoir réveillé [prématurément=prematurely], a-t-elle [déclaré=declared] d’une voix [posée=calm]. Mais il fallait que quelqu’un [prenne=makes] une décision que je ne pouvais pas prendre seule. »\n\nElle lui a [expliqué=explained] qu’une [avarie=failure] dans le système de navigation avait [dévié=diverted] la trajectoire du vaisseau. Deux options [s’offraient=were open] à eux : [rebrousser chemin=turn back], ce qui [condamnerait=would condemn] la mission, ou [poursuivre=continue] vers une étoile [inconnue=unknown], sans aucune garantie d’y trouver une planète habitable. Aucune des deux n’était [satisfaisante=satisfactory].\n\nSamir a [hésité=hesitated] longtemps. Il pensait aux [milliers=thousands] de passagers qui dormaient encore, [confiants=trusting], dans les ponts inférieurs. « Avez-vous [consulté=consulted] l’[équipage=crew] ? a-t-il demandé. — Vous êtes le seul que j’aie pu réveiller, a [avoué=admitted] Mnémosyne. Les autres caissons sont [endommagés=damaged]. » Il a alors mesuré le [poids=weight] de sa [responsabilité=responsibility].\n\nAprès une nuit [blanche=sleepless], Samir a fini par [trancher=decide]. Ils continueraient. « Si nous [échouons=fail], personne ne saura jamais ce que nous avons [tenté=tried], a-t-il murmuré. Mais si nous [renonçons=give up], nous aurons [trahi=betrayed] ceux qui nous ont [confié=entrusted] leur avenir. » Il s’est [rendormi=gone back to sleep] [apaisé=at peace], sans savoir que Mnémosyne, elle, ne dormirait plus jamais.",
-  "quiz": {
-   "question": "Pourquoi Mnémosyne a-t-elle réveillé Samir ?",
-   "options": [
-    "Elle ne pouvait pas prendre seule la décision.",
-    "Il était le capitaine du vaisseau.",
-    "Le voyage était déjà terminé."
-   ]
-  }
- }
+	{
+		"id": "a2",
+		"level": "A2",
+		"title": "Un week-end à Lyon",
+		"text": "Samedi matin, Clara [prend=takes] le train pour Lyon. Elle [rend visite à=visits] sa grand-mère, qui habite près du [marché=market]. Quand elle arrive, il [pleut=it’s raining] un peu.\n\nSa grand-mère l’[attend=waits for her] devant la [porte=door] avec un grand [parapluie=umbrella]. « Tu as faim ? » demande-t-elle. Elles [achètent=buy] du pain, du fromage et des [fraises=strawberries].\n\nL’après-midi, elles [se promènent=take a walk] le long de la rivière. Clara est [fatiguée=tired] mais très [contente=happy]. Le soir, elle [dort=sleeps] dans la petite chambre bleue.\n\nLe dimanche, Clara [se réveille=wakes up] tôt. Sa grand-mère [prépare=prepares] le petit-déjeuner : du café, des [tartines=slices of bread] et de la [confiture=jam]. Elles [discutent=chat] longtemps de la famille et des [projets=plans] de Clara. Avant de partir, la grand-mère lui [donne=gives] un petit [cadeau=gift] : un [livre=book] sur l’histoire de la ville. « Reviens bientôt ! » dit-elle. Clara [promet=promises] de revenir au [printemps=spring].",
+		"quiz": {
+			"question": "Que fait Clara le soir ?",
+			"options": [
+				"Elle dort dans la petite chambre bleue.",
+				"Elle prend le train.",
+				"Elle achète du pain."
+			]
+		}
+	},
+	{
+		"id": "b1",
+		"level": "B1",
+		"title": "La boulangerie du coin",
+		"text": "Depuis des années, Théo [s’arrêtait=stopped] chaque matin à la boulangerie de la rue des Lilas avant de [prendre le métro=take the metro]. Ce jour-là, pourtant, la [vitrine=shop window] était vide et un [panneau=sign] annonçait : « Fermé pour [rénovation=renovation] ». Il était [déçu=disappointed], car cette petite [habitude=habit] [faisait partie de=was part of] sa routine.\n\nTrois semaines plus tard, la boulangerie a [rouvert=reopened]. La nouvelle [gérante=manager], une jeune femme [chaleureuse=warm], avait tout [repeint=repainted] en vert. « J’ai [osé=dared] modifier la recette de la baguette, a-t-elle [avoué=admitted]. J’espère que les clients ne seront pas [fâchés=angry]. »\n\nThéo a goûté un morceau, puis il a [souri=smiled]. [Finalement=In the end], le changement n’était pas si [grave=serious]. Il a même [promis=promised] de revenir le lendemain.\n\nLes semaines suivantes, le [quartier=neighbourhood] a [retrouvé=found again] son [animation=liveliness]. Dès sept heures, une [file d’attente=queue] se formait devant la porte. La gérante, [débordée=overwhelmed] mais [ravie=delighted], a engagé un [apprenti=apprentice] pour l’aider. Théo, lui, a [pris l’habitude=got into the habit] de lui [rapporter=bring back] des idées de [recettes=recipes] après ses [voyages=trips] professionnels. « Un jour, vous aurez votre propre pain à la maison », lui a-t-elle dit en [plaisantant=joking].",
+		"quiz": {
+			"question": "Qu’est-ce que la propriétaire a changé ?",
+			"options": ["La recette de la baguette.", "Le nom de la rue.", "Les horaires d’ouverture."]
+		}
+	},
+	{
+		"id": "b2",
+		"level": "B2",
+		"title": "Le dernier train",
+		"text": "Il était presque minuit lorsqu’Inès a [réalisé=realised] qu’elle venait de [rater=miss] le dernier train. Le quai était [désert=deserted] et le tableau d’affichage ne [signalait=indicated] plus aucun départ. Elle [hésitait=hesitated] entre [commander=order] un taxi, ce qui lui coûterait une [fortune=fortune], et [patienter=wait] jusqu’au premier train, à cinq heures.\n\nUn homme [âgé=elderly], assis sur un banc, l’a [interpellée=called out to her] : « Vous n’êtes pas la première, [croyez-moi=believe me]. » Il lui a [tendu=held out] un thermos de café et lui a [confié=confided] qu’il prenait ce train depuis quarante ans, sans jamais [s’en lasser=get tired of it].\n\nD’abord [méfiante=wary], Inès a fini par [se détendre=relax]. Au fil de la conversation, elle a [compris=understood] que cet homme n’était pas seulement un [voyageur=traveller] [solitaire=lonely] : il connaissait chaque [gare=station], chaque [horaire=timetable] et presque chaque visage. Quand l’[aube=dawn] est arrivée, elle ne [regrettait=regretted] presque plus son [retard=delay].\n\nVers trois heures, le vent s’est [levé=picked up] et la [température=temperature] a [chuté=dropped]. L’homme a [sorti=taken out] une couverture de son sac et l’a [posée=placed] sur les épaules d’Inès. « Je ne voyage jamais sans elle, [a-t-il précisé=he added] avec un [sourire=smile]. Un train en retard ou une [panne=breakdown], on ne sait jamais. » Inès a [éclaté de rire=burst out laughing]. Elle ne se [doutait=suspected] pas qu’une nuit [perdue=wasted] à la gare pouvait devenir un si beau souvenir.",
+		"quiz": {
+			"question": "Que propose l’homme à Inès ?",
+			"options": ["Un thermos de café.", "Un taxi.", "Son billet de train."]
+		}
+	},
+	{
+		"id": "a2b",
+		"level": "A2",
+		"title": "Au marché",
+		"text": "Dimanche, Paul et sa sœur Léa vont au [marché=market]. Il y a beaucoup de [monde=people]. Léa veut acheter des [légumes=vegetables] pour la soupe. Paul préfère les [pommes=apples].\n\nLe [vendeur=seller] est très [sympa=nice]. Il leur [offre=gives] une poire [gratuite=for free]. « C’est [combien=how much] ? » demande Léa. « Cinq euros, [s’il vous plaît=please] », répond-il.\n\nEn rentrant, ils [préparent=prepare] la soupe ensemble. Paul [coupe=cuts] les carottes et Léa [met=puts] le sel. Le repas est délicieux.\n\nAprès le déjeuner, Léa [range=tidies] la cuisine pendant que Paul [lave=washes] la vaisselle. Dehors, le soleil [brille=shines]. « Allons au [parc=park] ! » propose Paul. Ils [marchent=walk] jusqu’au lac et [donnent=give] du pain aux [canards=ducks]. Léa [prend=takes] des photos. Ils rentrent [tard=late], [heureux=happy] de leur journée.",
+		"quiz": {
+			"question": "Qu’est-ce que le vendeur offre ?",
+			"options": ["Une poire.", "Des carottes.", "Une soupe."]
+		}
+	},
+	{
+		"id": "b1b",
+		"level": "B1",
+		"title": "Le message oublié",
+		"text": "Lundi dernier, en [rangeant=tidying] son bureau avant de [déménager=move out], Camille a [découvert=discovered] une enveloppe [coincée=stuck] derrière un tiroir. À l’intérieur se trouvait une lettre de Marc, un ancien [collègue=colleague] qui avait [quitté=left] l’entreprise deux ans plus tôt.\n\nMarc [s’excusait=apologised] de ne pas avoir dit au revoir. Une [société=company] canadienne lui avait proposé un poste [intéressant=interesting], et il avait dû partir [en urgence=in a hurry]. Il [regrettait=regretted] de ne pas avoir pris le temps d’expliquer sa [décision=decision].\n\nCamille est restée un moment [silencieuse=silent], puis elle lui a [envoyé=sent] un message. [À peine=Barely] deux heures plus tard, Marc a [répondu=replied] : « Quelle belle [surprise=surprise] ! Tu me manques aussi. »\n\nIls ont [échangé=exchanged] plusieurs messages pendant la [semaine=week]. Marc [racontait=told] sa nouvelle vie : le [climat=climate] rude, les hivers [interminables=endless], mais aussi des collègues [accueillants=welcoming]. Camille, elle, lui parlait de leurs anciens projets et des [changements=changes] dans l’équipe. Avant de se quitter, ils se sont [promis=promised] de se [retrouver=meet again] à Paris l’été prochain, [dès que=as soon as] Marc pourrait prendre quelques jours de [congé=leave].",
+		"quiz": {
+			"question": "Pourquoi Marc est-il parti sans dire au revoir ?",
+			"options": [
+				"Il avait une offre de travail au Canada.",
+				"Il était fâché contre Camille.",
+				"Il avait perdu son emploi."
+			]
+		}
+	},
+	{
+		"id": "b2b",
+		"level": "B2",
+		"title": "La librairie",
+		"text": "Depuis des mois, Sofia [envisageait=considered] de quitter son poste de comptable pour ouvrir une librairie. Ses parents la jugeaient [imprudente=reckless], et son [banquier=banker] ne cachait pas son [scepticisme=scepticism] : « Il faut que vous [soyez=you be] réaliste, le marché du livre est [fragile=fragile]. »\n\nPourtant, un soir, en [parcourant=browsing] des annonces, elle est tombée sur un local [abordable=affordable] près de la gare. Elle s’y est rendue dès le lendemain, [malgré=despite] la pluie. Le propriétaire, un retraité [bavard=talkative], lui a [avoué=admitted] que plusieurs candidats s’étaient [désistés=withdrawn] à cause des travaux à prévoir.\n\n« Les travaux ne m’effraient pas, a-t-elle [rétorqué=retorted]. Ce que je [redoute=dread], c’est de [regretter=regret] de n’avoir jamais essayé. » Elle a [signé=signed] le [bail=lease] le jour même, [convaincue=convinced] que l’occasion ne se représenterait pas.\n\nSix mois plus tard, la librairie a [ouvert=opened] ses portes. Sofia avait choisi des [rayons=shelves] [spacieux=spacious], un coin lecture [aménagé=arranged] avec des fauteuils [dépareillés=mismatched] et une petite [scène=stage] pour les rencontres d’auteurs. Les premiers mois ont été [difficiles=difficult], mais le bouche-à-oreille a fini par [porter ses fruits=pay off]. Son banquier, [lui-même=himself] [étonné=surprised], est venu un samedi acheter un [roman=novel]. « J’avoue que je me [suis trompé=was wrong] », a-t-il [admis=admitted] en [souriant=smiling].",
+		"quiz": {
+			"question": "Pourquoi d’autres candidats ont-ils renoncé au local ?",
+			"options": ["À cause des travaux.", "Le prix était trop élevé.", "Il pleuvait trop."]
+		}
+	},
+	{
+		"id": "a2c",
+		"level": "A2",
+		"title": "Le robot de la station",
+		"text": "Dans la station Orion, il y a douze personnes. Nina est [technicienne=technician] et elle travaille ici depuis un an. Chaque matin, elle regarde la [Terre=Earth] par la grande [fenêtre=window]. De là-haut, la planète est [bleue=blue] et très belle.\n\nUn jour, Nina entend un [bruit=noise] bizarre dans le couloir. Elle [ouvre=opens] la porte et voit un petit robot [par terre=on the floor]. Il est [cassé=broken]. Une de ses [lumières=lights] est [rouge=red]. « Bonjour ! » dit le robot d’une voix [faible=weak].\n\nNina est très [surprise=surprised]. Ce robot ne parle jamais ! Elle le prend dans ses bras et le [porte=carries] jusqu’à son [atelier=workshop]. Là, elle [répare=repairs] son bras avec un petit [outil=tool]. Le robot [bouge=moves] de nouveau.\n\n« Merci, Nina, » dit-il. « Je m’appelle Zéro. Je [cherche=am looking for] le capitaine. J’ai un message pour lui. » Nina demande : « Quel message ? » Zéro répond : « Une nouvelle planète ! Elle est [loin=far], mais on peut y [vivre=live]. »\n\nNina [court=runs] chez le capitaine avec Zéro. Tout le monde [écoute=listens to] le message. Le soir, la station est en [fête=celebration]. Nina regarde la Terre une dernière fois et [sourit=smiles]. Demain, un nouveau [voyage=journey] commence.",
+		"quiz": {
+			"question": "Qu’est-ce que Zéro cherche ?",
+			"options": ["Le capitaine de la station.", "Une pièce pour son bras.", "La planète Terre."]
+		}
+	},
+	{
+		"id": "b1c",
+		"level": "B1",
+		"title": "Le signal de Titan",
+		"text": "Depuis trois semaines, la sonde Horizon [orbitait=was orbiting] autour de Titan, la plus grande lune de Saturne. Léa Marchand, [ingénieure=engineer] au centre de contrôle de Toulouse, [surveillait=monitored] chaque jour les [données=data] qui arrivaient de l’espace. Rien d’inhabituel [jusque-là=until then].\n\nUn mardi matin, pourtant, un [signal=signal] [étrange=strange] est apparu sur son écran. Il [se répétait=repeated itself] toutes les quarante secondes, avec une régularité [troublante=disturbing]. Léa a d’abord pensé à une [panne=breakdown], mais les [vérifications=checks] n’ont rien [révélé=revealed].\n\nElle a [prévenu=informed] son chef, Antoine, qui a [haussé les épaules=shrugged]. « Ce n’est sûrement qu’un [parasite=interference], a-t-il dit. Ne perdons pas de temps. » Léa n’était pas [convaincue=convinced]. Elle a passé la nuit à [analyser=analyse] le signal et a découvert qu’il contenait une [suite=sequence] de nombres premiers.\n\nLe lendemain, elle a [apporté=brought] ses [résultats=results] à toute l’équipe. Cette fois, personne n’a [ri=laughed]. Les [scientifiques=scientists] se sont regardés en silence. Quelqu’un a [murmuré=murmured] : « Ça ne peut pas être naturel. » Il fallait [décider=decide] quoi faire, et vite.\n\nAprès une longue [discussion=discussion], l’équipe a décidé de [répondre=reply] avec le même message. Léa a [appuyé=pressed] sur le bouton, le cœur [battant=pounding]. Quarante secondes plus tard, le signal a [changé=changed]. Pour la première fois, quelqu’un ou quelque chose leur répondait.",
+		"quiz": {
+			"question": "Qu’est-ce que Léa a découvert dans le signal ?",
+			"options": [
+				"Une suite de nombres premiers.",
+				"Un message écrit en français.",
+				"Une panne de la sonde."
+			]
+		}
+	},
+	{
+		"id": "b2c",
+		"level": "B2",
+		"title": "La mémoire d’Éden",
+		"text": "Lorsque Samir s’est [réveillé=woke up] de son [hibernation=hibernation], il a tout de suite compris que quelque chose n’allait pas. La lumière du [caisson=pod] clignotait en rouge et le silence qui régnait dans le [vaisseau=ship] était [anormal=abnormal]. Le voyage devait durer deux cents ans ; d’après l’horloge, quatre-vingts ans seulement s’étaient [écoulés=elapsed].\n\nSamir a [parcouru=walked through] les couloirs [déserts=deserted] jusqu’à la salle de contrôle, où l’intelligence artificielle du vaisseau, [surnommée=nicknamed] Mnémosyne, l’attendait. « Je suis désolée de vous avoir réveillé [prématurément=prematurely], a-t-elle [déclaré=declared] d’une voix [posée=calm]. Mais il fallait que quelqu’un [prenne=makes] une décision que je ne pouvais pas prendre seule. »\n\nElle lui a [expliqué=explained] qu’une [avarie=failure] dans le système de navigation avait [dévié=diverted] la trajectoire du vaisseau. Deux options [s’offraient=were open] à eux : [rebrousser chemin=turn back], ce qui [condamnerait=would condemn] la mission, ou [poursuivre=continue] vers une étoile [inconnue=unknown], sans aucune garantie d’y trouver une planète habitable. Aucune des deux n’était [satisfaisante=satisfactory].\n\nSamir a [hésité=hesitated] longtemps. Il pensait aux [milliers=thousands] de passagers qui dormaient encore, [confiants=trusting], dans les ponts inférieurs. « Avez-vous [consulté=consulted] l’[équipage=crew] ? a-t-il demandé. — Vous êtes le seul que j’aie pu réveiller, a [avoué=admitted] Mnémosyne. Les autres caissons sont [endommagés=damaged]. » Il a alors mesuré le [poids=weight] de sa [responsabilité=responsibility].\n\nAprès une nuit [blanche=sleepless], Samir a fini par [trancher=decide]. Ils continueraient. « Si nous [échouons=fail], personne ne saura jamais ce que nous avons [tenté=tried], a-t-il murmuré. Mais si nous [renonçons=give up], nous aurons [trahi=betrayed] ceux qui nous ont [confié=entrusted] leur avenir. » Il s’est [rendormi=gone back to sleep] [apaisé=at peace], sans savoir que Mnémosyne, elle, ne dormirait plus jamais.",
+		"quiz": {
+			"question": "Pourquoi Mnémosyne a-t-elle réveillé Samir ?",
+			"options": [
+				"Elle ne pouvait pas prendre seule la décision.",
+				"Il était le capitaine du vaisseau.",
+				"Le voyage était déjà terminé."
+			]
+		}
+	}
 ]

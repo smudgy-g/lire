@@ -3,3 +3,5 @@ node_modules
 .vercel
 # 34 MB, only needed by `npm run data`; download from http://www.lexique.org (lex.json is committed instead)
 data/Lexique*.tsv
+# 11 MB, only needed by `npm run data`; https://github.com/michmech/lemmatization-lists (lex-es.json is committed instead)
+data/lemmatization-*.txt
