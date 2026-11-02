@@ -1,7 +1,15 @@
 <script lang="ts">
 	import { Popover } from 'bits-ui';
 	import type { Token } from '#lib/tokenize.ts';
-	import { cards, cardsInCurrentLang, highlightAboveLevel, lang, ui, speak } from '#lib/store.ts';
+	import {
+		autoSpeak,
+		cards,
+		cardsInCurrentLang,
+		highlightAboveLevel,
+		lang,
+		ui,
+		speak
+	} from '#lib/store.ts';
 
 	let { paragraphs = [] }: { paragraphs?: Token[][] } = $props();
 
@@ -23,7 +31,7 @@
 		popoverAnchor = event.currentTarget;
 		popoverOpen = true;
 		gloss = token.gloss || null;
-		speak(token.text);
+		if ($autoSpeak) speak(token.text);
 
 		if (gloss) return;
 
@@ -89,6 +97,10 @@
 			collisionPadding={16}
 			trapFocus={false}
 			onOpenAutoFocus={(event) => event.preventDefault()}
+			onclick={(event) => {
+				// Clicking the card itself closes it; its buttons keep their own behaviour.
+				if (!(event.target as Element).closest('button')) popoverOpen = false;
+			}}
 		>
 			{#if selectedToken}
 				{@const cardWord = cardWordFor(selectedToken)}
@@ -102,6 +114,18 @@
 					{#if selectedToken.level != null}
 						<span class="pop-lv">{LEVEL_LABELS[selectedToken.level]}</span>
 					{/if}
+					<button
+						class="pop-icon"
+						onclick={() => autoSpeak.update((on) => !on)}
+						aria-label={$autoSpeak ? $ui.popover.mute : $ui.popover.unmute}
+						aria-pressed={!$autoSpeak}
+						title={$autoSpeak ? $ui.popover.mute : $ui.popover.unmute}
+					>
+						{$autoSpeak ? '🔊' : '🔇'}
+					</button>
+					<Popover.Close class="pop-icon" aria-label={$ui.popover.close} title={$ui.popover.close}>
+						✕
+					</Popover.Close>
 				</div>
 				<p class="pop-gloss" class:wait={!gloss}>{gloss ?? $ui.popover.loading}</p>
 				<div class="pop-actions">

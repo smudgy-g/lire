@@ -90,7 +90,10 @@ export const LANGS = {
 			saved: 'Enregistré ✓',
 			save: '+ Enregistrer',
 			listenSlowlyLabel: 'Écouter lentement',
-			listen: '🔊 Écouter'
+			listen: '🔊 Écouter',
+			mute: 'Couper la prononciation automatique',
+			unmute: 'Activer la prononciation automatique',
+			close: 'Fermer'
 		}
 	},
 	es: {
@@ -177,7 +180,10 @@ export const LANGS = {
 			saved: 'Guardado ✓',
 			save: '+ Guardar',
 			listenSlowlyLabel: 'Escuchar despacio',
-			listen: '🔊 Escuchar'
+			listen: '🔊 Escuchar',
+			mute: 'Silenciar la pronunciación automática',
+			unmute: 'Activar la pronunciación automática',
+			close: 'Cerrar'
 		}
 	}
 };

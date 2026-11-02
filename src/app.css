@@ -265,6 +265,24 @@ textarea:focus {
 	background: var(--sage-bg);
 	color: var(--sage);
 }
+.pop-icon {
+	align-self: center;
+	border: 0;
+	background: none;
+	color: var(--mute);
+	font-size: 14px;
+	line-height: 1;
+	padding: 6px;
+	border-radius: 8px;
+	cursor: pointer;
+}
+.pop-icon:hover {
+	background: var(--line);
+	color: var(--ink);
+}
+.pop-head .pop-icon:first-of-type {
+	margin-left: auto;
+}
 .pop-gloss {
 	margin: 8px 0 14px;
 	color: var(--ink);

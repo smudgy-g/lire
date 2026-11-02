@@ -31,6 +31,7 @@ export const toCard = (stored: Card | LegacyCard): Card =>
 
 export const cards = writable<Card[]>([]);
 export const highlightAboveLevel = writable(2);
+export const autoSpeak = writable(true);
 export const lang = writable<Lang>('fr');
 export const ui = derived(lang, (currentLang) => LANGS[currentLang]);
 
@@ -92,10 +93,12 @@ export async function initStore() {
 	const storedLevel = Number(localStorage.getItem('level'));
 
 	if (storedLevel) highlightAboveLevel.set(storedLevel);
+	autoSpeak.set(localStorage.getItem('autoSpeak') !== 'false');
 	lang.set(pickLang(localStorage.getItem('lang')));
 	initialized = true;
 	cards.subscribe((value) => writeValue('cards', value));
 	highlightAboveLevel.subscribe((value) => localStorage.setItem('level', String(value)));
+	autoSpeak.subscribe((value) => localStorage.setItem('autoSpeak', String(value)));
 
 	lang.subscribe((value) => {
 		localStorage.setItem('lang', value);
