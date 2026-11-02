@@ -99,7 +99,7 @@ export const LANGS = {
 	es: {
 		code: 'ES',
 		voice: 'es-ES',
-		brand: 'Leer',
+		brand: 'Lire',
 		brandSubtitle: 'en español',
 		nav: ['Feed', 'Leer', 'Historias', 'Tarjetas'],
 		level: 'Nivel',
