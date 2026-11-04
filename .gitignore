@@ -5,3 +5,4 @@ node_modules
 data/Lexique*.tsv
 # 11 MB, only needed by `npm run data`; https://github.com/michmech/lemmatization-lists (lex-es.json is committed instead)
 data/lemmatization-*.txt
+lire-extension.zip

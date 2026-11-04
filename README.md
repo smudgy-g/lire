@@ -56,6 +56,10 @@ Push to GitHub, import the repo in Vercel, deploy with defaults (adapter-vercel 
 - **lemmatization-lists**: Michal Měchura. [GitHub](https://github.com/michmech/lemmatization-lists). Licensed [ODbL](https://opendatacommons.org/licenses/odbl/summary/).
 - **Definitions**: [Wiktionary](https://en.wiktionary.org), CC BY-SA 4.0.
 
+## Browser extension
+
+`extension/` is a Chrome extension that brings tap-to-translate to any page. Load it unpacked from `chrome://extensions` (Developer mode), then click the toolbar icon to turn it on for the current tab (badge shows ON); click a word to see its meaning (links still work; Alt+click a link to translate it), click the icon again to turn it off. It calls `/api/define` on `API_BASE` in `extension/background.js` (`https://lire.adamgriff.dev`, which must match `host_permissions` in `manifest.json`; point both at `http://localhost:5173` to test against `pnpm dev`). The privacy policy for the store listing is at `/privacy`. The language comes from the page's `lang` attribute (Spanish if `es`, otherwise French).
+
 ## Not built yet
 
 Share target for Android, accounts and sync, more topics, level estimates in the feed list.
